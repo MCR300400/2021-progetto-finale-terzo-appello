@@ -4,7 +4,7 @@ Nome:Edoardo
 
 Cognome:Pippi
 
-Matricola:336276
+Matricola:xxx-xxx
 
 Modifiche: numero di impostori preimpostato a seconda del numero degli astronauti
 
